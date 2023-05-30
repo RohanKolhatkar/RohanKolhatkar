@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi I am Rohan Kolhatkar.<br>🧑🏻‍🎓Final Year Btech Student at Vellore Institute of Technology.<br>🧑‍💻Aspiring Software Developer<br>💻Tech Stack - MERN Developer<br>💚Loves Problem Solving<br>
+👋Hi I am Rohan Kolhatkar.<br>🧑🏻‍🎓Final Year Btech Student at Vellore Institute of Technology.<br>🧑‍💻Aspiring Software Developer<br>💻Tech Stack - MERN Developer<br>💡 Enthusiastic about problem-solving and leveraging DSA principles<br>
 
 
 ## 🌐 Socials:
